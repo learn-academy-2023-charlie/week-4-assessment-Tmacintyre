@@ -70,3 +70,4 @@ palindrome(palindrome_test_case3)
 # "Racecar is a palindrome"
 # "LEARN is not a palindrome"
 # "Rotator is a palindrome"
+ 
